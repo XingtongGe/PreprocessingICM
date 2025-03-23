@@ -3,7 +3,7 @@
 
 [[paper](https://ieeexplore.ieee.org/abstract/document/10632166)] [[code](https://github.com/XingtongGe/PreprocessingICM)]
 
-[Guo Lu](https://guolusjtu.github.io/guoluhomepage/), [Xingtong Ge](https://xingtongge.github.io/), Tianxiong Zhong, Qiang Hu, Jing Geng
+[Guo Lu](https://guolusjtu.github.io/guoluhomepage/), [Xingtong Ge](https://xingtongge.github.io/), [Tianxiong Zhong](https://inkosizhong.github.io/), [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), [Jing Geng](https://pure.bit.edu.cn/en/persons/jing-geng)
 
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
 
@@ -19,7 +19,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
 
 [libbpg](https://bellard.org/bpg/)
 
-mmcv, mmdetection, mmclassification, etc.
+mmcv-1.7.0, mmdetection-2.19.1, mmclassification, etc.
 
 ## Folders
 
