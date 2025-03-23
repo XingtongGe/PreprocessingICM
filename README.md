@@ -11,7 +11,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
 
 * **2024/8**: 🔥 Our paper has been accepted by **IEEE TCSVT** !
 
-* **2022/7**: 🎉 I won the 2022 **Outstanding Graduation Thesis Award** of Beijing Institute of Technology for this work !
+* **2022/7**: 🎉 I won the 2022 **Outstanding Graduation Thesis Award** of Beijing Institute of Technology(BIT) for this work !
 
 ## Quick Started
 
